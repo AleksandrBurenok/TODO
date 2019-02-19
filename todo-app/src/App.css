@@ -31,3 +31,11 @@
     transform: rotate(360deg);
   }
 }
+
+button {
+  cursor: pointer;
+  background-color: #af1010;
+  border-radius: 7px;
+  border: 1px solid lightgray;
+  padding: 10px 30px;
+}
